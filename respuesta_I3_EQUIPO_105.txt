@@ -31,4 +31,15 @@ git add beta.txt
 git commit -m "GAMMA: modifica beta.txt"
 git push origin Benitez
 
+g) ¿Qué debió hacer (todos los comandos) en el punto 8 para poder hacer lo pedido?
+Hacer lo mismo que GAMMA, haciendo el pull de lo que modifico antes de subir. Los comandos son:
 
+git fetch origin
+git checkout Benitez
+git pull origin Benitez # Agrega lo que hizo GAMMA
+
+modificar beta.txt (nombre, apellido, ifconfig, hora)
+
+git add beta.txt
+git commit -m "ALFA: modifica beta.txt"
+git push origin Benitez
