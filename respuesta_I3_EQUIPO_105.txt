@@ -11,3 +11,24 @@ si hay conflicto en datos.txt: resolver, borrar marcadores, luego:,
 git add datos.txt
 git commit -m ""
 git push origin main
+
+d) ¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Sí, siempre y cuando cada integrante haya hecho git pull antes de su git push. La rama de GAMMA queda con datos.txt y los tres CPU*.txt actualizados, y la rama de BETA queda con beta.txt actualizado con la info de los tres. Esto funciona porque, si alguien intenta pushear sin actualizar primero, Git rechaza el push y lo obliga a hacer pull, así que al final las ramas terminan con todos los datos.
+
+e) ¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+
+Durante el proceso de realizar el merge tuvimos algunos inconvenientes, principalmente porque no teníamos claro todos los comandos necesarios para trabajar correctamente con las ramas de Git. Tuvimos que buscar información en Internet y consultar diferentes fuentes para entender cómo solucionar los conflictos y completar el proceso de unión de ramas.
+
+f) ¿Qué debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+beta.txt solo existe en la rama de BETA, así que GAMMA primero tiene que traer esa rama y pararse en ella:
+
+git fetch origin
+git checkout Benitez
+git pull origin Benitez
+
+modificar beta.txt(nombre,apellido,ifconfig,hora)
+git add beta.txt
+git commit -m "GAMMA: modifica beta.txt"
+git push origin Benitez
+
+
