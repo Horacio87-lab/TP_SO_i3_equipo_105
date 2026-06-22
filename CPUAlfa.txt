@@ -1,0 +1,73 @@
+
+Host Name:                     SR
+OS Name:                       Microsoft Windows 11 Enterprise
+OS Version:                    10.0.26200 N/A Build 26200
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Workstation
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              sebarulet@gmail.com
+Registered Organization:       N/A
+Product ID:                    00329-00000-00003-AA370
+Original Install Date:         15/05/2026, 8:10:56
+System Boot Time:              22/06/2026, 16:20:30
+System Manufacturer:           Gigabyte Technology Co., Ltd.
+System Model:                  A520M K V2
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3901 Mhz
+BIOS Version:                  American Megatrends International, LLC. F1, 29/12/2022
+Windows Directory:             C:\WINDOWS
+System Directory:              C:\WINDOWS\system32
+Boot Device:                   \Device\HarddiskVolume1
+System Locale:                 es-mx;Spanish (Mexico)
+Input Locale:                  es-mx;Spanish (Mexico)
+Time Zone:                     (UTC-03:00) City of Buenos Aires
+Total Physical Memory:         32.639 MB
+Available Physical Memory:     21.629 MB
+Virtual Memory: Max Size:      37.503 MB
+Virtual Memory: Available:     24.760 MB
+Virtual Memory: In Use:        12.743 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\SR
+Hotfix(s):                     4 Hotfix(s) Installed.
+                               [01]: KB5087051
+                               [02]: KB5054156
+                               [03]: KB5094126
+                               [04]: KB5094135
+Network Card(s):               2 NIC(s) Installed.
+                               [01]: Realtek PCIe GbE Family Controller
+                                     Connection Name: Ethernet
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     192.168.0.1
+                                     IP address(es)
+                                     [01]: 192.168.0.231
+                                     [02]: fe80::1d71:faf0:9518:e6b2
+                                     [03]: fdaa:bbcc:ddee:0:bd48:7139:bf46:7778
+                                     [04]: 2800:810:480:8083:bd48:7139:bf46:7778
+                                     [05]: fdaa:bbcc:ddee:0:7ad8:1607:d8fd:82d1
+                                     [06]: 2800:810:480:8083:fdff:4bf:72ce:3030
+                                     [07]: 2800:810:480:8083:f1ed:f171:9aca:96c
+                               [02]: VirtualBox Host-Only Ethernet Adapter
+                                     Connection Name: Ethernet 3
+                                     DHCP Enabled:    No
+                                     IP address(es)
+                                     [01]: 192.168.56.1
+                                     [02]: fe80::9526:4e39:622a:7673
+Virtualization-based security: Status: Running
+                               Required Security Properties:
+                               Available Security Properties:
+                                     Base Virtualization Support
+                                     Secure Boot
+                                     DMA Protection
+                                     UEFI Code Readonly
+                                     Mode Based Execution Control
+                               Services Configured:
+                                     Hypervisor enforced Code Integrity
+                               Services Running:
+                                     Credential Guard
+                                     Hypervisor enforced Code Integrity
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
