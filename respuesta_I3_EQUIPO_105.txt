@@ -1,0 +1,13 @@
+Responde BETA
+a) ¿Cómo queda el master después de estos cambios?
+El main queda completo, con todos los aportes del equipo. Tras el merge del paso 5 incorpora el datos.txt (con nombre, apellido, IP y hora de GAMMA, ALFA y BETA) y los tres archivos CPUGamma.txt, CPUAlfa.txt y CPUBeta.txt. Tras el merge del paso 9 incorpora además el beta.txt (con la info de BETA, GAMMA y ALFA). En resumen, main termina concentrando todo el trabajo de las dos ramas.
+b) ¿Beta pudo ver todos los cambios que se realizaron?
+Sí, pero no de forma automática. Los cambios de GAMMA y ALFA estaban en el repositorio remoto (GitHub), no en la copia local de BETA. Para poder verlos tuvo que sincronizar su repo local con el remoto usando git fetch y git pull. Recién después de traer esos commits pudo ver todos los cambios y hacer el merge.
+c) ¿Qué debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+
+git pull origin main
+git merge Sarabia gamma
+si hay conflicto en datos.txt: resolver, borrar marcadores, luego:,
+git add datos.txt
+git commit -m ""
+git push origin main
