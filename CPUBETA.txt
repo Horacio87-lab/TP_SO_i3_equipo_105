@@ -1,0 +1,76 @@
+
+Nombre de host:                            DESKTOP-MS2P2M2
+Nombre del sistema operativo:              Microsoft Windows 10 Pro
+Versi¢n del sistema operativo:             10.0.19045 N/D Compilaci¢n 19045
+Fabricante del sistema operativo:          Microsoft Corporation
+Configuraci¢n del sistema operativo:       Estaci¢n de trabajo independiente
+Tipo de compilaci¢n del sistema operativo: Multiprocessor Free
+Propiedad de:                              PC
+Organizaci¢n registrada:                   
+Id. del producto:                          00331-10000-00001-AA737
+Fecha de instalaci¢n original:             14/7/2025, 06:39:51
+Tiempo de arranque del sistema:            19/6/2026, 01:52:25
+Fabricante del sistema:                    ASUS
+Modelo el sistema:                         System Product Name
+Tipo de sistema:                           x64-based PC
+Procesador(es):                            1 Procesadores instalados.
+                                           [01]: AMD64 Family 25 Model 80 Stepping 0 AuthenticAMD ~3900 Mhz
+Versi¢n del BIOS:                          American Megatrends Inc. 1602, 5/1/2021
+Directorio de Windows:                     C:\Windows
+Directorio de sistema:                     C:\Windows\system32
+Dispositivo de arranque:                   \Device\HarddiskVolume4
+Configuraci¢n regional del sistema:        es;Espa¤ol (internacional)
+Idioma de entrada:                         es-mx;Espa¤ol (M‚xico)
+Zona horaria:                              (UTC-03:00) Ciudad de Buenos Aires
+Cantidad total de memoria f¡sica:          15.764 MB
+Memoria f¡sica disponible:                 8.481 MB
+Memoria virtual: tama¤o m ximo:            19.732 MB
+Memoria virtual: disponible:               9.973 MB
+Memoria virtual: en uso:                   9.759 MB
+Ubicaci¢n(es) de archivo de paginaci¢n:    C:\pagefile.sys
+Dominio:                                   WORKGROUP
+Servidor de inicio de sesi¢n:              \\DESKTOP-MS2P2M2
+Revisi¢n(es):                              17 revisi¢n(es) instaladas.
+                                           [01]: KB5066130
+                                           [02]: KB5056577
+                                           [03]: KB5011048
+                                           [04]: KB5011056
+                                           [05]: KB5015684
+                                           [06]: KB5020683
+                                           [07]: KB5026037
+                                           [08]: KB5033052
+                                           [09]: KB5072653
+                                           [10]: KB5071959
+                                           [11]: KB5014032
+                                           [12]: KB5016705
+                                           [13]: KB5063706
+                                           [14]: KB5063261
+                                           [15]: KB5063979
+                                           [16]: KB5066790
+                                           [17]: KB5071982
+Tarjeta(s) de red:                         3 Tarjetas de interfaz de red instaladas.
+                                           [01]: Intel(R) Wi-Fi 6 AX200 160MHz
+                                                 Nombre de conexi¢n: Wi-Fi 2
+                                                 Estado:             Medios desconectados
+                                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                                 Nombre de conexi¢n: Ethernet 2
+                                                 DHCP habilitado:    No
+                                                 Direcciones IP
+                                                 [01]: 192.168.56.1
+                                                 [02]: fe80::9d91:470:a78c:3df3
+                                           [03]: Intel(R) Ethernet Controller (2) I225-V
+                                                 Nombre de conexi¢n: Ethernet
+                                                 DHCP habilitado:    S¡
+                                                 Servidor DHCP:      192.168.0.1
+                                                 Direcciones IP
+                                                 [01]: 192.168.0.30
+                                                 [02]: fe80::cac6:3f7e:4f31:9961
+                                                 [03]: fdaa:bbcc:ddee:0:8dd8:5c8:6ddd:6425
+                                                 [04]: 2800:810:84c:b2d4:8dd8:5c8:6ddd:6425
+                                                 [05]: fdaa:bbcc:ddee:0:9f50:5ce3:2e9e:b2bb
+                                                 [06]: 2800:810:84c:b2d4:c334:3b46:eb3b:c855
+                                                 [07]: 2800:810:84c:b2d4:b16c:4463:6ad1:780
+Requisitos Hyper-V:                        Extensiones de modo de monitor de VM: S¡
+                                           Se habilit¢ la virtualizaci¢n en el firmware: S¡
+                                           Traducci¢n de direcciones de segundo nivel: S¡
+                                           La prevenci¢n de ejecuci¢n de datos est  disponible: S¡
