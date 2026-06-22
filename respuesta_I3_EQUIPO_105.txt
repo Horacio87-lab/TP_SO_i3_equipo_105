@@ -1,3 +1,10 @@
+Interacción 3 - Equipo 105
+
+Participantes:
+Sebastián Rulet (ALFA),
+Horacio Gabriel Benitez (BETA),
+Hector Franco Sarabia (GAMMA)
+
 Responde BETA
 a) ¿Cómo queda el master después de estos cambios?
 El main queda completo, con todos los aportes del equipo. Tras el merge del paso 5 incorpora el datos.txt (con nombre, apellido, IP y hora de GAMMA, ALFA y BETA) y los tres archivos CPUGamma.txt, CPUAlfa.txt y CPUBeta.txt. Tras el merge del paso 9 incorpora además el beta.txt (con la info de BETA, GAMMA y ALFA). En resumen, main termina concentrando todo el trabajo de las dos ramas.
